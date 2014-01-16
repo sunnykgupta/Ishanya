@@ -4,5 +4,6 @@
         id        = "com.madhues.Ishanya"
         versionCode="10" 
         version   = "1.0.0">
+        <name>Ishanya Motors</name>
     <preference name="orientation" value="portrait" />        
 </widget>
